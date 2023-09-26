@@ -1,19 +1,3 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// import './App.css'
-
-// function App() {
-//   const [count, setCount] = useState(0)
-
-//   return (
-//     <h1> hellur</h1>
-      
-//   )
-// }
-
-// export default App
-
 import React from 'react';
 import './App.css';
 import FlashcardList from './components/FlashcardList.jsx';
@@ -44,7 +28,9 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Flashcard App</h1>
+      <h1>FlashCard App</h1>
+      <p>World Capitals: A Learning Expedition!</p>
+      <p>Total Number of Cards: {flashcards.length}</p>
       <FlashcardList flashcards={flashcards} />
     </div>
   );
