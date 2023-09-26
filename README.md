@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![](https://github.com/yimusad/flashcard-react-app/blob/main/src/flashcard-pt1.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
