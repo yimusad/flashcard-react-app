@@ -4,8 +4,6 @@ Submitted by: **Yara Musad**
 
 This web app: **Explore and learn the capitals of the world with this interactive and fun flashcard app! Users can move back and forth between flashcards. The flashcards are color coded by continent**
 
-Time spent: **4** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
